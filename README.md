@@ -26,8 +26,8 @@ A junior software engineer student from Indonesia📍
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arkannaufl&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkannaufl&layout=compact&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arkannaufl&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkannaufl&layout=compact&hide_border=true&theme=dark)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arkannaufl)
