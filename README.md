@@ -30,8 +30,8 @@ A junior software engineer student from Indonesia📍
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkannaufl&layout=compact&hide_border=true&theme=dark)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arkannaufl)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arkannaufl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arkannaufl)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=web)](https://arkannaufal.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:arkannaufal024l@gmail.com)
 
