@@ -6,11 +6,11 @@
             src="https://komarev.com/ghpvc/?username=arkannaufl&label=Profile%20views&color=0e75b6&style=flat"
             alt="arkannaufl" /> </p>
 
-    - 🌱 I’m currently learning *Laravel*
+    - 🌱 I’m currently learning **Laravel**
 
-    - 👨‍💻 All of my projects are available at [arkannaufl.github.io](arkannaufl.github.io)
+    - 👨‍💻 All of my projects are available at [arkannaufl.github.io](https://arkannaufl.github.io)
 
-    - 📫 How to reach me *arkannaufal024@gmail.com*
+    - 📫 How to reach me **arkannaufal024@gmail.com**
 
-    - ⚡ Fun fact *I think, im funny*
+    - ⚡ Fun fact **I think, I'm funny**
 </div>
