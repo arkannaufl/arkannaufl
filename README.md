@@ -1,9 +1,11 @@
-# Hi there, I'm Arkan Naufal Ardhani! 👋
+# Hi there, I'm [Your Name]! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/arkannaufl?style=social)
-![GitHub stars](https://img.shields.io/github/stars/arkannaufl?style=social)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 
-Welcome to my GitHub profile! I’m a [Your Profession/Role] with a passion for [Your Interests or Specialties]. 
+Welcome to my GitHub profile! I’m a [Your Profession/Role] with a passion for [Your Interests or Specialties].
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 ## 🚀 About Me
 - 🌱 I’m currently learning [Current Learning Goals]
@@ -25,16 +27,16 @@ Welcome to my GitHub profile! I’m a [Your Profession/Role] with a passion for 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arkannaufl&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkannaufl&layout=compact&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arkannaufl&repo=repo1)](https://github.com/arkannaufl/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arkannaufl&repo=repo2)](https://github.com/arkannaufl/repo2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1)](https://github.com/yourusername/repo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2)](https://github.com/yourusername/repo2)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arkannaufl)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/arkannaufl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourusername)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=web)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:youremail@gmail.com)
 
@@ -52,5 +54,3 @@ Welcome to my GitHub profile! I’m a [Your Profession/Role] with a passion for 
 - 🏃‍♂️ Running
 
 Thanks for visiting my profile! Feel free to reach out if you’d like to connect or collaborate on any projects.
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkannaufl.arkannaufl)
