@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkan Naufal Ardhani</h1>
 <h3 align="center">A passionate frontend web developer from Indonesia</h3>
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkannaufl&label=Profile%20views&color=0e75b6&style=flat" alt="arkannaufl" /> </p>
 
@@ -12,8 +11,8 @@
 
 - ⚡ Fun fact **I think, im funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/arkannaufl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkannaufl" height="30" width="40" /></a>
 <a href="https://fb.com/arkannaufl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkannaufl" height="30" width="40" /></a>
 <a href="https://instagram.com/arkannaufl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkannaufl" height="30" width="40" /></a>
